@@ -2,6 +2,8 @@
 
 <h2>Networking Projects:</h2>
   <cite><a href="https://github.com/YusufOYusuf/Configuring-Advanced-Ethernet-Options">*Configuring Advanced Ethernet Options</a>
+    
+  <cite><a href="https://github.com/YusufOYusuf/Configuring-and-Displaying-Speed-Duplex-and-Description-on-a-Switch/blob/main/README.md">*Configuring and Displaying Speed Duplex and Description on a Switch
   
 <h2>Cybersecurity Projects:</h2>
   
