@@ -1,6 +1,7 @@
 <h1>Hi, Yusuf! <br/><a href="https://github.com/YusufOYusuf">Jr Programmer</a>, <a href="https://www.linkedin.com/in/yusuf-yusuf-5244b823b/">Networking, and Cybersecurity Professional</a>
 
 <h2>Networking Projects:</h2>
+  <cite><a href="https://github.com/YusufOYusuf/Configuring-Advanced-Ethernet-Options">*Configuring Advanced Ethernet Options</a>
   
 <h2>Cybersecurity Projects:</h2>
   
