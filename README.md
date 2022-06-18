@@ -7,6 +7,8 @@
  <cite><a href="https://github.com/YusufOYusuf/Configuring-and-Displaying-Speed-Duplex-and-Description-on-a-Switch/blob/main/README.md">*Configuring and Displaying Speed Duplex and Description on a Switch
     
  <cite><a href="https://github.com/YusufOYusuf/Creating-a-Subinterface-on-a-Router-and-Assigning-an-IP-Address/blob/main/README.md">*Creating a Subinterface on a Router and Assigning an IP Address
+   
+ <cite a href="https://github.com/YusufOYusuf/Configuring-a-DHCP-Server/blob/main/README.md">*Configuring a DHCP Server"
   
 <h2>Cybersecurity Projects:</h2>
   
