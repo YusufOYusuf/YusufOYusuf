@@ -22,6 +22,9 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Displaying-a-Router-s-IP-ARP-Table/blob/main/README.md">*Displaying a Routers IP ARP Table
   
+<cite><a href="https://github.com/YusufOYusuf/Configuring-a-Class-C-IP-Address/blob/main/README.md">*Configuring a Class C IP Address
+  
+  
   
 <h2>Cybersecurity Projects:</h2>
   
