@@ -9,6 +9,8 @@
  <cite><a href="https://github.com/YusufOYusuf/Creating-a-Subinterface-on-a-Router-and-Assigning-an-IP-Address/blob/main/README.md">*Creating a Subinterface on a Router and Assigning an IP Address
    
  <cite><a href="https://github.com/YusufOYusuf/Configuring-a-DHCP-Server/blob/main/README.md">*Configuring a DHCP Server"
+   
+ <cite><a href="https://github.com/YusufOYusuf/Adding-A-DNS-Server/blob/main/README.md">*Adding A DNS Server
   
 <h2>Cybersecurity Projects:</h2>
   
