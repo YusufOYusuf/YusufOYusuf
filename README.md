@@ -18,6 +18,9 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Displaying-the-Structure-of-a-UDP-Segment/blob/main/README.md">*Displaying the Structure of a UDP Segment
   
+<cite><a href="https://github.com/YusufOYusuf/Displaying-the-Structure-of-a-TCP-Segment/blob/main/README.md">*Displaying the Structure of a TCP Segment
+  
+  
 <h2>Cybersecurity Projects:</h2>
   
 <h2>Programming Projects:</h2>
