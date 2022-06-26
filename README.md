@@ -26,6 +26,7 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-a-Class-A-IP-Address/blob/main/README.md">*Configuring a Class A IP Address
   
+<cite><a href="https://github.com/YusufOYusuf/Configuring-a-Class-B-IP-Address/blob/main/README.md">*Configuring a Class B IP Address
   
   
 <h2>Cybersecurity Projects:</h2>
