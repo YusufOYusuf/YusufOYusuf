@@ -29,6 +29,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Configuring-a-Class-B-IP-Address/blob/main/README.md">*Configuring a Class B IP Address
 
 <cite><a href="https://github.com/YusufOYusuf/Enabling-and-Verifyng-SLAAC-on-a-Router/blob/main/README.md">*Enabling and Verifying SLAAC on a Router
+
+<cite><a href="https://github.com/YusufOYusuf/Pinging-a-Host-Using-a-PC/blob/main/README.md">*Pinging a Host Using a PC
   
   
 <h2>Cybersecurity Projects:</h2>
