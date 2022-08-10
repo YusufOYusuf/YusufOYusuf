@@ -33,6 +33,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Pinging-a-Host-Using-a-PC/blob/main/README.md">*Pinging a Host Using a PC
 
 <cite><a href="https://github.com/YusufOYusuf/Configuring-a-CDIR-Based-IP-Network/blob/main/README.md">*Configuring a CIDR-Based IP Network
+
+<cite><a href="https://github.com/YusufOYusuf/Configuring-Network-Address-Translation/blob/main/README.md">*Configuring Network Address Translations
   
   
 <h2>Cybersecurity Projects:</h2>
