@@ -38,6 +38,8 @@
 
 <cite><a href="https://github.com/YusufOYusuf/Configuring-Port-Address-Translation/blob/main/README.md">*Configuring Port Address Translations
   
+<cite><a href="https://github.com/YusufOYusuf/Using-the-show-ip-route-command/blob/main/README.md">*Using The 'show ip route' Command
+  
   
 <h2>Cybersecurity Projects:</h2>
   
