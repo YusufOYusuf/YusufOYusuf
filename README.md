@@ -49,7 +49,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Configuring-an-Access-Point/blob/main/README.md">*Configuring an Access Point
   
 <cite><a href="https://github.com/YusufOYusuf/Identifying-the-Root-Ports-and-Viewing-the-STP-Information-on-a-Switch/blob/main/README.md">*Identifying the Root Ports and Viewing the STP information on a Switch
-    
+
+<cite><a href="https://github.com/YusufOYusuf/Creating-a-VLAN-and-Viewing-its-Assignment-to-Port-Mapping/blob/main/README.md">*Creating a VLAN and Viewing its Assignment to Port Mapping
   
   
   
