@@ -43,6 +43,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Configuring-Static-Routing-/blob/main/README.md">*Configuring Static Routing
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-GRE-Tunnels/blob/main/README.md">*Configuring GRE Tunnels
+
+<cite><a href="https://github.com/YusufOYusuf/Using-The-Show-Command/blob/main/README.md">*Using The Show Command
   
   
 <h2>Cybersecurity Projects:</h2>
