@@ -40,6 +40,8 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Using-the-show-ip-route-command/blob/main/README.md">*Using The 'show ip route' Command
   
+<cite><a href="https://github.com/YusufOYusuf/Configuring-Static-Routing-/blob/main/README.md">*Configuring Static Routing
+  
   
 <h2>Cybersecurity Projects:</h2>
   
