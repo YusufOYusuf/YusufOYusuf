@@ -52,6 +52,8 @@
 
 <cite><a href="https://github.com/YusufOYusuf/Creating-a-VLAN-and-Viewing-its-Assignment-to-Port-Mapping/blob/main/README.md">*Creating a VLAN and Viewing its Assignment to Port Mapping
   
+<cite><a href="https://github.com/YusufOYusuf/Configuring-and-Viewing-a-Trunk-Port-Status/blob/main/README.md">*Configuring and Viewing a Trunk Port Status 
+  
   
   
 <h2>Cybersecurity Projects:</h2>
