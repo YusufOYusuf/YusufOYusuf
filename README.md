@@ -48,6 +48,10 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-an-Access-Point/blob/main/README.md">*Configuring an Access Point
   
+<cite><a href="https://github.com/YusufOYusuf/Identifying-the-Root-Ports-and-Viewing-the-STP-Information-on-a-Switch/blob/main/README.md">*Identifying the Root Ports and Viewing the STP information on a Switch
+    
+  
+  
   
 <h2>Cybersecurity Projects:</h2>
   
