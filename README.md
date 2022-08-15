@@ -55,10 +55,10 @@
 <cite><a href="https://github.com/YusufOYusuf/Configuring-and-Viewing-a-Trunk-Port-Status/blob/main/README.md">*Configuring and Viewing a Trunk Port Status 
   
 <cite><a href="https://github.com/YusufOYusuf/Viewing-the-Application-Security-and-System-Logs/blob/main/README.md">*Viewing the Application, Security, and System Logs
-
-  
+ 
 <cite><a href="https://github.com/YusufOYusuf/Configuring-Syslog-and-Viewing-Settings-on-a-Router/blob/main/README.md">*Configuring Syslog and Viewing Settings on a Router
-
+  
+<cite><a href="https://github.com/YusufOYusuf/Viewing-Interface-Statistics-and-Status/blob/main/README.md">*Viewing Interface Statistics and Status 
 
 
   
