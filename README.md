@@ -61,6 +61,9 @@
 <cite><a href="https://github.com/YusufOYusuf/Viewing-Interface-Statistics-and-Status/blob/main/README.md">*Viewing Interface Statistics and Status 
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-NetFlow/blob/main/README.md">*Configuring NetFlow 
+  
+<cite><a href="https://github.com/YusufOYusuf/Creating-a-Demilitarized-Zone/blob/main/README.md">*Creating a Demilitarized Zone  
+  
 
 
   
