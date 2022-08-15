@@ -56,7 +56,8 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Viewing-the-Application-Security-and-System-Logs/blob/main/README.md">*Viewing the Application, Security, and System Logs
 
-
+  
+<cite><a href="https://github.com/YusufOYusuf/Configuring-Syslog-and-Viewing-Settings-on-a-Router/blob/main/README.md">*Configuring Syslog and Viewing Settings on a Router
 
 
 
