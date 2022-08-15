@@ -59,6 +59,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Configuring-Syslog-and-Viewing-Settings-on-a-Router/blob/main/README.md">*Configuring Syslog and Viewing Settings on a Router
   
 <cite><a href="https://github.com/YusufOYusuf/Viewing-Interface-Statistics-and-Status/blob/main/README.md">*Viewing Interface Statistics and Status 
+  
+<cite><a href="https://github.com/YusufOYusuf/Configuring-NetFlow/blob/main/README.md">*Configuring NetFlow 
 
 
   
