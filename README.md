@@ -54,7 +54,12 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Configuring-and-Viewing-a-Trunk-Port-Status/blob/main/README.md">*Configuring and Viewing a Trunk Port Status 
   
-  
+<cite><a href="https://github.com/YusufOYusuf/Viewing-the-Application-Security-and-System-Logs/blob/main/README.md">*Viewing the Application, Security, and System Logs
+
+
+
+
+
   
 <h2>Cybersecurity Projects:</h2>
   
