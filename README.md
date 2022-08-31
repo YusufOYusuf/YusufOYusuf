@@ -98,8 +98,7 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Part-II-Command-Line-Tools/blob/main/README.md">*Part II: Command Line Tools
   
-  
-  
+<cite><a href="https://github.com/YusufOYusuf/Part-III-Command-Line-Tools/blob/main/README.md">*Part III: Command Line Tools
   
   
   
