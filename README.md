@@ -106,6 +106,9 @@
   
 <h2>SQL Scripts With Data Sets:</h2> 
   
+<cite><a href="https://github.com/YusufOYusuf/SQL">*Basic SQL using a simple dataset
+  
+  
 <h2>Programming Projects:</h2>
 
 
