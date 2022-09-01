@@ -104,6 +104,8 @@
   
 <h2>Cybersecurity Projects:</h2>
   
+<h2>SQL Scripts With Data Sets:</h2> 
+  
 <h2>Programming Projects:</h2>
 
 
