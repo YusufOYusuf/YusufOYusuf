@@ -112,7 +112,8 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Basic-SQL-Part-II">*Basic SQL Part II
   
-  
+<cite><a href="https://github.com/YusufOYusuf/Basic-SQL-Part-III">*Basic SQL Part III
+    
   
 <h2>Programming Projects:</h2>
 
