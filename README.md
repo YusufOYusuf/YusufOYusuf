@@ -108,9 +108,12 @@
   
 <h2>SQL Scripts With Data Sets:</h2> 
   
-<cite><a href="https://github.com/YusufOYusuf/SQL">*Basic SQL using a simple dataset
+<cite><a href="https://github.com/YusufOYusuf/SQL">*Basic SQL Part I
   
- 
+<cite><a href="https://github.com/YusufOYusuf/Basic-SQL-Part-II">*Basic SQL Part II
+  
+  
+  
 <h2>Programming Projects:</h2>
 
 
