@@ -102,9 +102,38 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
 <h2>Cybersecurity Projects:</h2>
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <h2>Pentesting Projects:</h2>
+  
+<cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-Nmap-Amap/blob/main/README.md">*Reconnaissance with Nmap and Amap
+  
+  
+  
+  
+  
+  
+  
   
 <h2>SQL Scripts With Data Sets:</h2> 
   
