@@ -153,6 +153,8 @@
 <cite><a href="https://github.com/YusufOYusuf/Basic-SQL-Part-IV">*Basic(to intermediate) SQL Part IV
 
 <cite><a href="https://github.com/YusufOYusuf/Inermediate-SQL-I">*Intermediate SQL Part I
+
+<cite><a href="https://github.com/YusufOYusuf/Intermediate-SQL-part-2">*Intermediate SQL Part II
     
   
 <h2>Programming Projects:</h2>
