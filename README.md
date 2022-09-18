@@ -114,6 +114,8 @@
 <h2>Cybersecurity Projects:</h2>
   
 <cite><a href="https://github.com/YusufOYusuf/Identifying-Virus-Threats/blob/main/README.md">*Identifying Virus Threats
+
+<cite><a href="https://github.com/YusufOYusuf/Detecting-Rootkits/blob/main/README.md">*Detecting Rootkits
   
   
   
