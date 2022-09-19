@@ -117,6 +117,8 @@
 
 <cite><a href="https://github.com/YusufOYusuf/Detecting-Rootkits/blob/main/README.md">*Detecting Rootkits
   
+<cite><a href="https://github.com/YusufOYusuf/Using-Social-Engineering-Techniques-to-Plan-an-Attack-2/blob/main/README.md">*Using Social Engineering Techniques to Plan an Attack 2 (Revised)
+  
   
   
   
