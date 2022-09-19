@@ -119,6 +119,8 @@
   
 <cite><a href="https://github.com/YusufOYusuf/Using-Social-Engineering-Techniques-to-Plan-an-Attack-2/blob/main/README.md">*Using Social Engineering Techniques to Plan an Attack 2 (Revised)
   
+<cite><a href="https://github.com/YusufOYusuf/Cracking-a-Linux-Password-Using-John-the-Ripper/blob/main/README.md">*Cracking a Linux Password Using John the Ripper
+  
   
   
   
