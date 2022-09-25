@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yusuf 🙏🏾🧑🏾‍💻</h1>
-<img src="https://user-images.githubusercontent.com/107387427/191385968-b5ed5b24-79f3-4d17-b858-f3a265c3f930.png" height="80%" width="100%" alt="Configuring Advanced Ethernet Options Steps"/>
+<img src="https://i.postimg.cc/7Y3XgS9y/Untitled-6.jpg" height="80%" width="100%" alt="Configuring Advanced Ethernet Options Steps"/>
 
-<p> I’m a Cybersecurity Engineer and Programmer who is passionate about securing networks, penetration testing, scripting, and cybersecurity education. I have skills using several Operating Systems (Ubuntu, Windows10, Kali Linux, openSUSE, etc.) as well as proficient knowledge of several programming/markup/query languages. I have done extensive projects on networking, cybersecurity, and penetration testing. My experience ranges from configuring DHCP servers and setting up Honeypots to conducting vulnerability scanning using Nessus and cracking Linux passwords using John the Ripper. Click on any of the links below to see in depth walk throughs for each of my projects. 
+<p> I’m a Cybersecurity Analyst and Programmer who is passionate about securing networks, penetration testing, scripting, and cybersecurity education. I have skills using several Operating Systems (Ubuntu, Windows10, Kali Linux, openSUSE, etc.) as well as proficient knowledge of several programming/markup/query languages. I have done extensive projects on networking, cybersecurity, and penetration testing. My experience ranges from configuring DHCP servers and setting up Honeypots to conducting vulnerability scanning using Nessus and utilizing SIEM's. Click on any of the links below to see in depth walk throughs for each of my projects. 
  </p>
 
 <h2>Networking Projects:</h2>
