@@ -148,7 +148,7 @@
  
 <cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-Nmap-Zenmap-and-Masscan/blob/main/README.md">*Reconnaissance with Nmap, Zenmap, and Masscan
   
-  
+<cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-HPING/blob/main/README.md">*Reconnaissance with HPING
   
   
   
