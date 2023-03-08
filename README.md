@@ -33,17 +33,7 @@
   
 <h2>Pentesting Projects:</h2>
   
-<cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-Nmap-Amap/blob/main/README.md">*Reconnaissance with Nmap and Amap
-  
-<cite><a href="https://github.com/YusufOYusuf/Social-Engineering-Attacks-with-Social-Engineering-Toolkit/blob/main/README.md">*Social Engineering Attacks with Social Engineering Toolkit
-
-<cite><a href="https://github.com/YusufOYusuf/DNS-Footprinting/blob/main/README.md">*DNS Footprinting 
-  
-<cite><a href="https://github.com/YusufOYusuf/Packet-Crafting-with-Scapy/blob/main/README.md">*Packet Crafting with Scapy
- 
-<cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-Nmap-Zenmap-and-Masscan/blob/main/README.md">*Reconnaissance with Nmap, Zenmap, and Masscan
-  
-<cite><a href="https://github.com/YusufOYusuf/Reconnaissance-with-HPING/blob/main/README.md">*Reconnaissance with HPING
+<cite><a href="https://github.com/YusufOYusuf/Pentesting-/blob/main/README.md">*Click Here To See My Pentesting Experience</a>
   
   
   
@@ -58,7 +48,7 @@
  
 
   
-<cite><a href="https://github.com/YusufOYusuf/SQL-Scripts/blob/main/README.md">*Click Here To See My SQL Experience
+<cite><a href="https://github.com/YusufOYusuf/SQL-Scripts/blob/main/README.md">*Click Here To See My SQL Experience</a>
   
 
   
