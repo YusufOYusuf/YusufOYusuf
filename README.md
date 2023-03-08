@@ -6,8 +6,7 @@
 
 <h2>Networking Projects:</h2>
 
-  
-  <cite><a href="https://github.com/YusufOYusuf/Networking-Projects/blob/main/README.md">Click Here To See My Networking Experience</a>
+<cite><a href="https://github.com/YusufOYusuf/Networking-Projects/blob/main/README.md">Click Here To See My Networking Experience</a>
     
  
   
@@ -45,15 +44,46 @@
   
 <h2>SQL Scripts With Data Sets:</h2> 
  
- 
-
-  
 <cite><a href="https://github.com/YusufOYusuf/SQL-Scripts/blob/main/README.md">*Click Here To See My SQL Experience</a>
   
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
 <h2>Programming Projects:</h2>
+ 
+ <h3>Web design Projects:</h3> 
+ 
+ <cite><a href="https://github.com/YusufOYusuf/Web-Design-Projects">*Click Here To See My Web Design Experience</a>
+ 
+ 
+ 
+ <h3>PHP Projects:</h3> 
+ 
+ <cite><a href="https://github.com/YusufOYusuf/PHP-Projects">*Click Here To See My PHP Experience</a>
+ 
+ 
+ 
+ 
+ <h3>Python Projects:</h3> 
+ 
+ <cite><a href="https://github.com/YusufOYusuf/Python-Projects">*Click Here To See My Python Experience</a>
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ### Skills
 
